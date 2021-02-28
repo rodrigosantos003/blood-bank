@@ -1,0 +1,7 @@
+Application Exited: 	08/11/2020 08:55:58
+Application Exited: 	08/11/2020 09:07:34
+Logged In: admin	08/11/2020 09:09:22
+Logged Out: admin	08/11/2020 09:09:26
+Logged In: teste123	08/11/2020 09:11:39
+Logged Out: teste123	08/11/2020 09:11:42
+Application Exited: 	08/11/2020 09:11:44
